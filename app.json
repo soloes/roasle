@@ -1,0 +1,38 @@
+﻿{
+    "name": "roasle",
+    "description": "x",
+    "keywords": ["x"],
+    "env": {
+        "AA": {
+            "description": "初阶用户",
+            "value": "如出现错误"
+        },
+        "AUUID": {
+            "description": "UUID的网站: https://www.uuidgenerator.net",
+            "value": "d3d0f5e3-fde7-48d3-8cf1-fc5bc43689a0"
+        },
+        "CADDYIndexPage": {
+            "description": "自定义参考",
+            "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
+        },
+        "CONFIGCADDY": {
+            "description": "请勿修改",
+            "value": "https://raw.githubusercontent.com/soloes/roasle/master/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "description": "请勿修改",
+            "value": "https://raw.githubusercontent.com/soloes/roasle/master/etc/wry.json"
+        },
+        "ParameterSSENCYPT": {
+            "description": "SS加密",
+            "value": "chacha20-ietf-poly1305"
+        },
+        "StoreFiles": {
+            "description": "自定义网络地址读取存储文件列表",
+            "value": "https://raw.githubusercontent.com/soloes/roasle/master/etc/StoreFiles"
+        }
+    },
+    "website": "https://github.com/soloes/roasle",
+    "repository": "https://github.com/soloes/roasle",
+    "stack": "container"
+}
